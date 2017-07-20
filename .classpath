@@ -8,7 +8,7 @@
 	<classpathentry kind="lib" path="libs/curvesapi-1.04.jar"/>
 	<classpathentry kind="lib" path="libs/junit-4.12.jar"/>
 	<classpathentry kind="lib" path="libs/log4j-1.2.17.jar"/>
-	<classpathentry kind="lib" path="libs/poi-3.16.jar"/>
+	<classpathentry kind="lib" path="libs/poi-3.16.jar" sourcepath="C:/Users/panyi/.m2/repository/org/apache/poi/poi/3.16/poi-3.16-sources.jar"/>
 	<classpathentry kind="lib" path="libs/poi-examples-3.16.jar"/>
 	<classpathentry kind="lib" path="libs/poi-excelant-3.16.jar"/>
 	<classpathentry kind="lib" path="libs/poi-ooxml-3.16.jar"/>
